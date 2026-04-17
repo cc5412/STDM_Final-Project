@@ -1,38 +1,21 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2867
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 ArialMT;\f2\froman\fcharset0 Times-Roman;
-}
-{\colortbl;\red255\green255\blue255;\red24\green24\blue24;\red0\green0\blue0;\red251\green0\blue7;
-}
-{\*\expandedcolortbl;;\cssrgb\c12157\c12157\c12157;\cssrgb\c0\c0\c0;\cssrgb\c100000\c0\c0;
-}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+Spatio-Temporal Analysis of Water Temperatures in Long Island Sound: Comparing ARIMA and STARIMA Models
+Christian Carvajal
 
-\f0\b\fs22 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Spatio-Temporal Analysis of Water Temperatures in Long Island Sound:\cf0 \strokec3  \cf2 \strokec2 Comparing ARIMA and STARIMA Models\cf0 \strokec3 \
+READ ME
 
-\f1\b0 \cf2 \strokec2 Christian Carvajal\cf0 \strokec3 \
-\pard\pardeftab720\qj\partightenfactor0
-\cf3 \strokec4 \
+Report is saved as a PDF.
 
-\f0\b \ul READ ME\
+To reproduce this analysis, open the .Rproj file in RStudio.
 
-\f1\b0 \ulnone \
-Report is saved as a PDF.\
-\
-To reproduce this analysis, open the .Rproj file in RStudio.\
-\
-Using RStudio ensures the working directory is automatically set to the correct relative path for data importation.\
-\
-\pard\pardeftab720\qj\partightenfactor0
-\cf3 \outl0\strokewidth0 Run the STDM_Coursework_NYwatertemp.R script.
-\f2\fs24 \cf3 \outl0\strokewidth0 \strokec3 \
-\
-\pard\pardeftab720\qj\partightenfactor0
+Using RStudio ensures the working directory is automatically set to the correct relative path for data importation.
 
-\f1\fs22 \cf3 \outl0\strokewidth0 NOTE:\
-** The file \'93NY_watertemps.csv\'94 is included in the zipped folder, but is not required to run the script. You may delete it if you wish to run the script from scratch and pull the data via the NOAA API.\
+Run the STDM_Coursework_NYwatertemp.R script.
+
+NOTE:
+** The file “NY_watertemps.csv” is included in the zipped folder, but is not required to run the script. You may delete it if you wish to run the script from scratch and pull the data via the NOAA API.
+
+** The “starima_package.R” script should remain in the folder for the analysis script to properly function.
+
 \
 ** The \'93starima_package.R\'94 script should remain in the folder for the analysis script to properly function.\
 }
