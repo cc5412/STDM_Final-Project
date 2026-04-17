@@ -8,4 +8,5 @@ Report is saved as a PDF.
 
 NOTE:
 ** The file “NY_watertemps.csv” is included in the zipped folder, but is not required to run the script. You may delete it if you wish to run the script from scratch and pull the data via the NOAA API.
+
 ** The “starima_package.R” script should remain in the folder for the analysis script to properly function.
