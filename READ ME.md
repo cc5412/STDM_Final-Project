@@ -16,6 +16,4 @@ NOTE:
 
 ** The “starima_package.R” script should remain in the folder for the analysis script to properly function.
 
-\
-** The \'93starima_package.R\'94 script should remain in the folder for the analysis script to properly function.\
-}
+** The \'93starima_package.R\'94 script should remain in the folder for the analysis script to properly function.
